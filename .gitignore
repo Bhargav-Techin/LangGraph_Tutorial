@@ -1,0 +1,24 @@
+# Byte-code files
+*.pyc
+__pycache__/
+
+# Virtual environment
+.venv/
+myenv/
+.env
+venv/
+ENV/
+
+# Distribution / build files
+.Python
+build/
+dist/
+*.egg-info/
+
+# Editors
+.idea/          # JetBrains IDEs (e.g. PyCharm)
+.vscode/        # VS Code
+
+# OS generated files
+.DS_Store       # macOS
+Thumbs.db       # Windows
